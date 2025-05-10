@@ -1,0 +1,9 @@
+com\example\chat\client\Client.class
+com\example\chat\server\ClientHandler$1.class
+com\example\chat\client\ClientHandler.class
+com\example\chat\server\ClientHandler.class
+com\example\shared\Message.class
+com\example\chat\server\User.class
+com\example\chat\client\ClientHandler$1.class
+com\example\chat\server\Server.class
+com\example\shared\Message$MessageType.class
